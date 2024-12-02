@@ -1,0 +1,67 @@
+{
+    "columns": [
+      {
+        "key": "id",
+        "label": "ID"
+      },
+      {
+        "key": "productName",
+        "label": "Product Name"
+      },
+      {
+        "key": "productDescription",
+        "label": "Product Description"
+      },
+      {
+        "key": "price",
+        "label": "Price"
+      },
+      {
+        "key": "productRating",
+        "label": "Product Rating"
+      },
+      {
+        "key": "action",
+        "label": "Action"
+      }
+    ],
+    "data": [
+      {
+        "id": 1,
+        "productName": "Wireless Bluetooth Headphones",
+        "productDescription": "High-quality sound, long battery life, and comfortable design.",
+        "price": "$59.99",
+        "productRating": "4.5"
+      },
+      {
+        "id": 2,
+        "productName": "Smartphone - 128GB",
+        "productDescription": "Latest model with a powerful processor, high-quality camera, and a 128GB storage capacity.",
+        "price": "$799.00",
+        "productRating": "4.7"
+      },
+      {
+        "id": 3,
+        "productName": "Men's Sports Watch",
+        "productDescription": "Durable sports watch with water resistance and a heart rate monitor.",
+        "price": "$120.00",
+        "productRating": "4.3"
+      },
+      {
+        "id": 4,
+        "productName": "Bluetooth Smart Speaker",
+        "productDescription": "Portable speaker with 360-degree sound and long battery life.",
+        "price": "$99.99",
+        "productRating": "4.6"
+      },
+      {
+        "id": 5,
+        "productName": "LED Smart TV - 55 inch",
+        "productDescription": "Ultra HD 55-inch smart TV with voice control and streaming apps.",
+        "price": "$499.99",
+        "productRating": "4.8"
+      }
+    ]
+    
+  }
+  

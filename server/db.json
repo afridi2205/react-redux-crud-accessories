@@ -1,0 +1,60 @@
+{
+  "products": [
+    {
+      "id": "5af2-1",
+      "productName": "Redmi 5g",
+      "productDescription": "Microtek Processor",
+      "price": "11999",
+      "productRating": "3"
+    },
+    {
+      "id": "2a06-2",
+      "productName": "Adidas",
+      "productDescription": "shine 3031",
+      "price": "500",
+      "productRating": "5"
+    },
+    {
+      "id": "5af2-3",
+      "productName": "Redmi 5g",
+      "productDescription": "Microtek Processor",
+      "price": "11999",
+      "productRating": "3"
+    },
+    {
+      "id": "2a06-4",
+      "productName": "Adidas",
+      "productDescription": "shine 3031",
+      "price": "500",
+      "productRating": "5"
+    },
+    {
+      "id": "5af2-5",
+      "productName": "Redmi 5g",
+      "productDescription": "Microtek Processor",
+      "price": "11999",
+      "productRating": "3"
+    },
+    {
+      "id": "2a06-6",
+      "productName": "Adidas",
+      "productDescription": "shine 3031",
+      "price": "500",
+      "productRating": "5"
+    },
+    {
+      "id": "5af2-7",
+      "productName": "Redmi 5g",
+      "productDescription": "Microtek Processor",
+      "price": "11999",
+      "productRating": "3"
+    },
+    {
+      "id": "2a06-8",
+      "productName": "Adidas",
+      "productDescription": "shine 3031",
+      "price": "500",
+      "productRating": "5"
+    }
+  ]
+}
